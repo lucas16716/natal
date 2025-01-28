@@ -1,6 +1,8 @@
 <h1 align="center">Merry Christmas Animation 🎄✨</h1>
 <div>
-  [![Status](https://img.shields.io/badge/Status-Finalizado-blue)]()
+
+[![Status](https://img.shields.io/badge/Status-Finalizado-blue)]()
+
 </div>
 
 > Este projeto cria uma animação de Feliz Natal utilizando HTML, CSS e JavaScript. O código foi baseado em um tutorial encontrado no CodingStella, e foi modificado para incluir uma animação de digitação e a revelação de uma mensagem especial ao clicar em um botão
