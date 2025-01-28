@@ -1,10 +1,6 @@
 <h1 align="center">Merry Christmas Animation 🎄✨</h1>
-
 <div>
-  
-[![License](https://img.shields.io/badge/Licença-MIT-yellow)](./LICENSE)&nbsp;&nbsp;
-[![Status](https://img.shields.io/badge/Status-Finalizado-blue)]()
-
+  [![Status](https://img.shields.io/badge/Status-Finalizado-blue)]()
 </div>
 
 > Este projeto cria uma animação de Feliz Natal utilizando HTML, CSS e JavaScript. O código foi baseado em um tutorial encontrado no CodingStella, e foi modificado para incluir uma animação de digitação e a revelação de uma mensagem especial ao clicar em um botão
@@ -19,7 +15,7 @@
 <h2>PROJETO</h2>
 <h5>Acesse e confira o projeto em ação:</h5>
 
-- 🌐 <a href="https://lucas16716.github.io/feliz-natal/">GitHub Pages
+- 🌐 <a href="https://lucas16716.github.io/natal/">GitHub Pages
 
 <h2>FUNCIONALIDADES</h2>
 
@@ -48,8 +44,7 @@
 │   ├── 📂 js
 │   │   └── script.js            # Código JS
 ├── index.html                   # Página principal
-├── README.md                    # Documentação
-└── LICENSE                      # Licença
+└── README.md                    # Documentação
 ```
 
 <h2>COMO USAR</h2>
@@ -57,7 +52,7 @@
 1. Clone este repositório no seu computador:
 
 ```
-git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
+git clone https://github.com/lucas16716/natal.git
 ```
 
 2. Abra o arquivo `index.html` no seu navegador:
@@ -68,4 +63,3 @@ git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
 
 <h2>📝 LICENÇA</h2>
 <p>Esse projeto é baseado no código do <a href="https://codingstella.com/how-to-create-merry-christmas-tree-animation-using-html-css-javascript/">CodingStella</p>
-<p>Este projeto está licenciado sob a licença MIT. Confira os detalhes na documentação oficial.</p>
