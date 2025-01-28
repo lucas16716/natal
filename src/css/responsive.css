@@ -1,0 +1,29 @@
+@media (max-width: 768px) {
+  .typing-container {
+    font-size: 18px;
+    transform: rotate(0deg);
+    text-align: center;
+    left: 2px;
+    top: 4%;
+  }
+
+  #hidden-message {
+    font-size: 16px;
+    max-width: 100%; /* Garante que o texto não ultrapasse a largura da tela */
+  }
+}
+
+@media (max-width: 480px) {
+  .typing-container {
+    font-size: 16px;
+    transform: rotate(0deg);
+    text-align: center;
+    left: 2px;
+    top: 4%;
+  }
+
+  #hidden-message {
+    font-size: 14px;
+    max-width: 100%; /* Garante que o texto não ultrapasse a largura da tela */
+  }
+}
