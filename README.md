@@ -30,7 +30,7 @@ Este projeto cria uma animação de Feliz Natal utilizando HTML, CSS e JavaScrip
 - **HTML5 →** Estrutura da página e dos elementos;
 - **CSS3 →** Estilos e responsividade;
 - **JavaScript →** Interatividade e lógica;
-- **GitHub →** Deploy;
+- **GitHub →** Deploy.
 
 ---
 
