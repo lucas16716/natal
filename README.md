@@ -5,8 +5,6 @@
 
 </div>
 
-> Este projeto cria uma animação de Feliz Natal utilizando HTML, CSS e JavaScript. O código foi baseado em um tutorial encontrado no CodingStella, e foi modificado para incluir uma animação de digitação e a revelação de uma mensagem especial ao clicar em um botão
-
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,9 +13,10 @@
 </p>
 
 <h2>PROJETO</h2>
-<h5>Acesse e confira o projeto em ação:</h5>
 
-- 🌐 <a href="https://lucas16716.github.io/natal/">GitHub Pages
+Este projeto cria uma animação de Feliz Natal utilizando HTML, CSS e JavaScript. O código foi baseado em um tutorial encontrado no CodingStella, e foi modificado para incluir uma animação de digitação e a revelação de uma mensagem especial ao clicar em um botão
+
+🌐 <a href="https://lucas16716.github.io/natal/">Acesse o projeto (GitHub Pages)
 
 <h2>FUNCIONALIDADES</h2>
 
@@ -28,10 +27,10 @@
 
 <h2>TECNOLOGIAS E FERRAMENTAS</h2>
 
-- **HTML5:** Estrutura da página e dos elementos;
-- **CSS3:** Estilos e responsividade;
-- **JavaScript:** Interatividade e lógica;
-- **GitHub:** Deploy;
+- **HTML5 →** Estrutura da página e dos elementos;
+- **CSS3 →** Estilos e responsividade;
+- **JavaScript →** Interatividade e lógica;
+- **GitHub →** Deploy;
 
 ---
 
