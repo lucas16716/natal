@@ -14,9 +14,9 @@
 
 <h2>PROJETO</h2>
 
-Este projeto cria uma animação de Feliz Natal utilizando HTML, CSS e JavaScript. O código foi baseado em um tutorial encontrado no CodingStella, e foi modificado para incluir uma animação de digitação e a revelação de uma mensagem especial ao clicar em um botão
+Este projeto cria uma animação de Feliz Natal utilizando HTML, CSS e JavaScript. O código foi baseado em um tutorial encontrado no CodingStella, e foi modificado para incluir uma animação de digitação e a revelação de uma mensagem especial ao clicar em um botão.
 
-🌐 <a href="https://lucas16716.github.io/natal/">Acesse o projeto (GitHub Pages)
+🌐 <a href="https://lucas16716.github.io/natal/">Acesse o projeto
 
 <h2>FUNCIONALIDADES</h2>
 
