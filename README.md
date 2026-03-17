@@ -1,66 +1,66 @@
-<h1 align="center">Merry Christmas Animation 🎄✨</h1>
-<div>
+<div align="center">
 
-[![Status](https://img.shields.io/badge/Status-Finalizado-blue)]()
+# Feliz Natal!
+
+**Animação natalina interativa — experimento de estudo**
+
+*Baseado em tutorial do CodingStella, modificado e expandido*
+
+[![Status](https://img.shields.io/badge/status-concluído-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
+[![Finalidade](https://img.shields.io/badge/finalidade-estudo-e8e4de?style=flat-square&labelColor=orange&color=1c1b2e)]()
 
 </div>
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-e-ferramentas">Tecnologias e Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#estruturação-do-projeto">Guia Repositório</a>
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#estrutura">Estrutura</a>
 </p>
 
-<h2>PROJETO</h2>
+<h2 id="projeto">PROJETO</h2>
 
-Este projeto cria uma animação de Feliz Natal utilizando HTML, CSS e JavaScript. O código foi baseado em um tutorial encontrado no CodingStella, e foi modificado para incluir uma animação de digitação e a revelação de uma mensagem especial ao clicar em um botão.
+Experimento desenvolvido durante meus estudos, baseado no tutorial [Merry Christmas Tree Animation](https://codingstella.com/how-to-create-merry-christmas-tree-animation-using-html-css-javascript/) do CodingStella. O código original foi modificado para incluir uma animação de digitação e a revelação de uma mensagem especial ao clicar em um botão.
 
-🌐 <a href="https://lucas16716.github.io/natal/">Acesse o projeto
+🌐 [Acesse o projeto](https://lucas16716.github.io/natal/)
 
-<h2>FUNCIONALIDADES</h2>
+<h2 id="funcionalidades">FUNCIONALIDADES</h2>
 
-- Animação de digitação: O texto de felicitações natalinas aparece com um efeito de digitação;
-- Revelação de mensagem: Após a conclusão da animação de digitação, um botão é exibido, permitindo que o usuário revele uma mensagem especial de Natal ao clicar;
-- Árvore animada: ao entrar no site, um desenho de uma árvore de natal é criado com várias animações;
-- Layout responsivo: O design é responsivo, garantindo que a animação se ajuste a diferentes tamanhos de tela.
+- **Árvore animada** — desenho de árvore de natal construído com animações em CSS
+- **Animação de digitação** — texto de felicitações revelado com efeito typewriter
+- **Mensagem especial** — botão exibido ao fim da animação que revela uma mensagem ao clicar
+- **Layout responsivo** — interface adaptada para diferentes tamanhos de tela
 
-<h2>TECNOLOGIAS E FERRAMENTAS</h2>
+<h2 id="tecnologias">TECNOLOGIAS</h2>
 
-- **HTML5 →** Estrutura da página e dos elementos;
-- **CSS3 →** Estilos e responsividade;
-- **JavaScript →** Interatividade e lógica;
-- **GitHub →** Deploy.
+| Tecnologia | Uso |
+|---|---|
+| HTML5 | Estrutura da página |
+| CSS3 | Estilos e animações |
+| JavaScript | Interatividade e lógica |
+| Git/Github | Versionamento e deploy |
+
+<h2 id="estrutura">ESTRUTURA</h2>
+
+```
+natal/
+├── src/
+│   ├── css/
+│   │   ├── style.css        → Estilos principais
+│   │   └── responsive.css   → Responsividade
+│   └── js/
+│       └── script.js        → JavaScript
+├── index.html
+└── README.md
+```
 
 ---
 
-<h2>ESTRUTURAÇÃO DO PROJETO</h2>
+<h2>LICENÇA</h2>
 
-```bash
-📁 feliz-natal
-├── 📂 src
-│   ├── 📂 css
-│   │   ├── style.css            # Código CSS para estilos
-│   │   └── responsive.css       # Código CSS para responsividade
-│   ├── 📂 js
-│   │   └── script.js            # Código JS
-├── index.html                   # Página principal
-└── README.md                    # Documentação
-```
+Este projeto é baseado no código do [CodingStella](https://codingstella.com), utilizado para fins de estudo. As modificações são de autoria própria.
 
-<h2>COMO USAR</h2>
+<h2>AUTOR</h2>
 
-1. Clone este repositório no seu computador:
-
-```
-git clone https://github.com/lucas16716/natal.git
-```
-
-2. Abra o arquivo `index.html` no seu navegador:
-
-3. Interaja com a animação!
-
----
-
-<h2>📝 LICENÇA</h2>
-<p>Esse projeto é baseado no código do <a href="https://codingstella.com/how-to-create-merry-christmas-tree-animation-using-html-css-javascript/">CodingStella</p>
+Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucas-coutoti).  
+Conheça meu trabalho em [Lucas Code](https://bio.site/lucascode).
